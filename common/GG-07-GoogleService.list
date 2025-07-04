@@ -1,0 +1,50 @@
+# ========== Google 主域名与通用服务 ==========
+DOMAIN-SUFFIX, google.com            # 广义 Google 服务兜底
+DOMAIN-SUFFIX, googleapis.com        # 通用 Google API 服务
+DOMAIN-SUFFIX, gstatic.com           # Google 静态内容和 CDN
+DOMAIN-SUFFIX, ssl.gstatic.com       # 安全的 gstatic
+DOMAIN-SUFFIX, fonts.googleapis.com  # Google 字体 API
+DOMAIN-SUFFIX, fonts.gstatic.com     # Google 字体资源
+DOMAIN-SUFFIX, cdn.google.com        # Google 通用 CDN
+DOMAIN-SUFFIX, assets.google.com     # Google 通用资产
+DOMAIN-SUFFIX, static.google.com     # Google 通用静态内容
+
+# ========== Google 身份验证与账户服务 ==========
+DOMAIN-SUFFIX, accounts.google.com
+DOMAIN-SUFFIX, auth.google.com
+DOMAIN-SUFFIX, oauth2.googleapis.com
+DOMAIN-SUFFIX, login.google.com
+
+# ========== Google 通用客户端、更新与遥测服务 ==========
+DOMAIN-SUFFIX, clients.google.com
+DOMAIN-SUFFIX, clients2.google.com
+DOMAIN-SUFFIX, clients4.google.com
+DOMAIN-SUFFIX, dl.google.com             # 下载服务 (通用)
+DOMAIN-SUFFIX, update.googleapis.com     # 更新服务 (通用)
+DOMAIN-SUFFIX, crashreport.google.com    # 崩溃报告 (通用)
+DOMAIN-SUFFIX, telemetry.google.com      # 遥测 (通用)
+DOMAIN-SUFFIX, experiments.google.com    # A/B 实验 (通用)
+DOMAIN-SUFFIX, googleusercontent.com     # Google 用户内容与存储 (通用)
+
+# ========== Google 广告、分析与标签管理 ==========
+DOMAIN-SUFFIX, google-analytics.com
+DOMAIN-SUFFIX, googlesyndication.com
+DOMAIN-SUFFIX, googletagmanager.com
+DOMAIN-SUFFIX, googleadservices.com
+DOMAIN-SUFFIX, analytics.google.com
+DOMAIN-SUFFIX, ggpht.com                         # Google Photos Hosting (通用图片服务)
+
+# ========== Google Play Store (应用商店) ==========
+DOMAIN-SUFFIX, play.google.com
+
+# ========== Google 通用工具与客户端服务 ==========
+DOMAIN-SUFFIX, tools.google.com
+DOMAIN-SUFFIX, contacts.google.com
+DOMAIN-SUFFIX, suggestqueries.google.com         # 谷歌搜索建议 (通用)
+
+# ========== Google 短网址与人机验证服务 ==========
+DOMAIN-SUFFIX, g.co
+DOMAIN-SUFFIX, goo.gl
+DOMAIN-SUFFIX, recaptcha.net
+
+ 

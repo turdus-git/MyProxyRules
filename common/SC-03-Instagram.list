@@ -1,0 +1,28 @@
+# ========== Instagram 主站与核心接口 ==========
+DOMAIN-SUFFIX, instagram.com
+DOMAIN-SUFFIX, www.instagram.com
+DOMAIN-SUFFIX, graph.instagram.com
+DOMAIN-SUFFIX, platform.instagram.com  # 平台 API
+
+# ========== Instagram 身份验证与账户服务 ==========
+DOMAIN-SUFFIX, login.instagram.com
+DOMAIN-SUFFIX, oauth.instagram.com
+
+# ========== Instagram 静态资源与 CDN (包括 Instagram 自有及 Meta 共享 CDN) ==========
+DOMAIN-SUFFIX, cdninstagram.com
+DOMAIN-SUFFIX, scontent.cdninstagram.com
+DOMAIN-SUFFIX, scontent.xx.fbcdn.net  # Meta 共享内容 CDN，Instagram 使用
+DOMAIN-SUFFIX, igcdn.net
+
+# ========== Instagram 视频流 CDN (确保视频/Reels 播放流畅) ==========
+DOMAIN-SUFFIX, video.cdninstagram.com
+DOMAIN-SUFFIX, video.xx.fbcdn.net    # Meta 共享视频 CDN，Instagram 使用
+
+# ========== Instagram 遥测与分析服务 ==========
+DOMAIN-SUFFIX, pixel.instagram.com
+
+# ========== Instagram 依赖的通用 Meta/Facebook 服务 (用于 SDK 和共享功能) ==========
+DOMAIN-SUFFIX, connect.facebook.net   # Meta 共享 SDK 和社交插件
+
+# ========== 备用域（某些网络环境下跳转） ==========
+DOMAIN-SUFFIX, instagr.am

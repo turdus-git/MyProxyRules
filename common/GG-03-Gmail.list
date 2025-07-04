@@ -1,0 +1,16 @@
+# ========== Gmail 主站与核心接口 ==========
+DOMAIN-SUFFIX, mail.google.com
+DOMAIN-SUFFIX, gmail.com
+DOMAIN-SUFFIX, www.gmail.com
+
+# ========== Gmail SMTP / IMAP / POP 服务器 ==========
+DOMAIN-SUFFIX, gmail-smtp-in.l.google.com
+DOMAIN-SUFFIX, smtp.gmail.com
+DOMAIN-SUFFIX, imap.gmail.com
+DOMAIN-SUFFIX, pop.gmail.com
+
+# ========== Gmail 附件预览与内容服务 ==========
+DOMAIN-SUFFIX, drive.google.com  # Gmail可能依赖Google Drive进行附件预览
+DOMAIN-SUFFIX, docs.google.com   # 同样可能用于文档附件预览
+
+ 

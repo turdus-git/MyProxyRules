@@ -1,0 +1,47 @@
+# ========== 明确需要代理的国外通用第三方 CDN ==========
+DOMAIN-SUFFIX, cloudflare.com     # Cloudflare (通用，未被特定 App 规则覆盖的)
+DOMAIN-SUFFIX, akamai.net         # Akamai CDN
+DOMAIN-SUFFIX, akamaized.net      # Akamai CDN 特定域名
+DOMAIN-SUFFIX, akamaihd.net       # Akamai CDN 特定域名 (通常用于视频)
+DOMAIN-SUFFIX, fastly.net         # Fastly CDN
+DOMAIN-SUFFIX, cdnjs.com          # cdnjs 公共 CDN
+DOMAIN-SUFFIX, jsdelivr.net       # jsDelivr 公共 CDN
+DOMAIN-SUFFIX, unpkg.com          # Unpkg 公共 CDN
+DOMAIN-SUFFIX, bootstrapcdn.com   # BootstrapCDN (Bootstrap 框架 CDN)
+DOMAIN-SUFFIX, stackpathcdn.com   # StackPath CDN
+DOMAIN-SUFFIX, cloudfront.net     # Amazon CloudFront CDN
+DOMAIN-SUFFIX, s3.amazonaws.com   # Amazon S3 存储桶 (常见内容托管)
+
+# ==============================================================
+# 明确需要代理的国外通用第三方身份验证与后端服务
+# ==============================================================
+DOMAIN-SUFFIX, auth0.com          # Auth0 身份验证服务
+DOMAIN-SUFFIX, firebaseapp.com    # Firebase 应用托管
+DOMAIN-SUFFIX, firebaseio.com     # Firebase 实时数据库
+
+# ==============================================================
+# 明确需要代理的国外通用第三方分析、遥测与广告
+# ==============================================================
+DOMAIN-SUFFIX, sentry.io               # 错误监控服务
+DOMAIN-SUFFIX, segment.io              # 数据收集与分析
+DOMAIN-SUFFIX, optimizely.com          # A/B 测试服务
+DOMAIN-SUFFIX, disqus.com              # 评论系统
+DOMAIN-SUFFIX, addthis.com             # 社交分享工具
+DOMAIN-SUFFIX, sharethis.com           # 社交分享工具
+DOMAIN-SUFFIX, quantserve.com          # 广告与分析
+DOMAIN-SUFFIX, krxd.net                # 广告与追踪
+DOMAIN-SUFFIX, adroll.com              # 广告再营销
+DOMAIN-SUFFIX, rubiconproject.com      # 广告交易平台
+DOMAIN-SUFFIX, taboola.com             # 原生广告
+DOMAIN-SUFFIX, outbrain.com            # 原生广告
+DOMAIN-SUFFIX, scorecardresearch.com   # 网络分析
+DOMAIN-SUFFIX, nr-data.net             # New Relic 性能监控
+
+# ==============================================================
+# 明确需要代理的国外通用第三方支付与字体
+# ==============================================================
+DOMAIN-SUFFIX, paypal.com         # PayPal 支付
+DOMAIN-SUFFIX, stripe.com         # Stripe 支付
+DOMAIN-SUFFIX, typekit.net        # Adobe 字体服务 (Typekit)
+
+ 

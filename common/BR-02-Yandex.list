@@ -1,0 +1,32 @@
+# ========== Yandex Browser 主站与核心接口 ==========
+DOMAIN-SUFFIX, browser.yandex.com
+DOMAIN-SUFFIX, browser.yandex.ru
+DOMAIN-SUFFIX, yandex.com
+DOMAIN-SUFFIX, yandex.ru
+DOMAIN-SUFFIX, api.yandex.com
+DOMAIN-SUFFIX, api.browser.yandex.com
+
+# ========== Yandex Browser 身份验证与账户服务 ==========
+DOMAIN-SUFFIX, passport.yandex.com
+DOMAIN-SUFFIX, passport.yandex.ru
+DOMAIN-SUFFIX, login.yandex.com
+DOMAIN-SUFFIX, login.yandex.ru
+
+# ========== Yandex Browser 静态资源与 CDN ==========
+DOMAIN-SUFFIX, cdn.yandex.com
+DOMAIN-SUFFIX, yastatic.net      # Yandex 静态资源主域名
+
+# ========== Yandex 核心网络服务与安全浏览 ==========
+DOMAIN-SUFFIX, yandex.net            # 通用 Yandex 网络服务
+DOMAIN-SUFFIX, antivirus.yandex.net  # Yandex 浏览器安全服务
+DOMAIN-SUFFIX, safe.yandex.net       # Yandex 安全浏览
+
+# ========== Yandex Browser 遥测与更新服务 ==========
+DOMAIN-SUFFIX, telemetry.yandex.com
+DOMAIN-SUFFIX, telemetry.browser.yandex.net
+DOMAIN-SUFFIX, update.yandex.com
+DOMAIN-SUFFIX, update.browser.yandex.net
+
+# ========== 备用域（某些网络环境下跳转） ==========
+DOMAIN-SUFFIX, yandex-browser.com
+DOMAIN-SUFFIX, yandexbrowser.com

@@ -1,0 +1,35 @@
+# ========== Telegram 主站与核心接口 ==========
+DOMAIN-SUFFIX, telegram.org
+DOMAIN-SUFFIX, web.telegram.org
+DOMAIN-SUFFIX, core.telegram.org
+DOMAIN-SUFFIX, api.telegram.org
+
+# ========== Telegram 身份验证与账户服务 ==========
+DOMAIN-SUFFIX, my.telegram.org
+DOMAIN-SUFFIX, auth.telegram.org
+DOMAIN-SUFFIX, login.telegram.org
+
+# ========== Telegram 静态资源与 CDN ==========
+DOMAIN-SUFFIX, cdn.telegram.org
+DOMAIN-SUFFIX, assets.telegram.org
+DOMAIN-SUFFIX, static.telegram.org
+DOMAIN-SUFFIX, telegram-cdn.org
+
+# ========== Telegram 关联服务 (如 Telegraph 文章) ==========
+DOMAIN-SUFFIX, telegra.ph
+DOMAIN-SUFFIX, graph.org
+
+# ========== Telegram 客户端相关服务 ==========
+DOMAIN-SUFFIX, tdesktop.com # Telegram Desktop 客户端相关服务
+
+# ========== Telegram 遥测与更新服务 ==========
+DOMAIN-SUFFIX, telemetry.telegram.org
+DOMAIN-SUFFIX, updates.telegram.org
+
+# ========== Telegram 代理与中继服务 ==========
+DOMAIN-SUFFIX, telegramproxy.org
+DOMAIN-SUFFIX, telesco.pe
+
+# ========== 备用域与短链跳转 ==========
+DOMAIN-SUFFIX, t.me
+

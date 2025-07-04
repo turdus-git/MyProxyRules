@@ -1,0 +1,10 @@
+# ========== Google 翻译核心域名 ==========
+DOMAIN-SUFFIX, translate.google.com
+DOMAIN-SUFFIX, translate.googleapis.com   # 翻译API接口
+
+# ========== Google 翻译相关客户端与静态资源 ==========
+DOMAIN-SUFFIX, gstatic.com           # Google 静态资源 (对翻译页面渲染至关重要，如果已在GG-07中包含，请确保此列表优先加载)
+DOMAIN-SUFFIX, clients6.google.com   # Google客户端服务，常用于翻译功能
+DOMAIN-SUFFIX, fonts.gstatic.com     # 字体资源
+
+ 

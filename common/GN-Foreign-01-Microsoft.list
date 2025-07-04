@@ -1,0 +1,22 @@
+# ========== Microsoft 核心服务与通用域名 ==========
+DOMAIN-SUFFIX, microsoft.com        # 广义 Microsoft 服务兜底
+DOMAIN-SUFFIX, bing.com             # Bing 搜索引擎 (通用)
+DOMAIN-SUFFIX, cdn.microsoft.com    # Microsoft 通用 CDN
+DOMAIN-SUFFIX, assets.microsoft.com # Microsoft 通用资产
+DOMAIN-SUFFIX, static.microsoft.com # Microsoft 通用静态内容
+
+# ========== Microsoft 通用门户与服务 ==========
+DOMAIN-SUFFIX, live.com             # Microsoft Live 服务
+DOMAIN-SUFFIX, outlook.com          # Outlook 邮件
+DOMAIN-SUFFIX, office.com           # Office 365
+DOMAIN-SUFFIX, microsoftonline.com  # Microsoft Online 服务
+DOMAIN-SUFFIX, msn.com              # MSN 门户
+DOMAIN-SUFFIX, xbox.com             # Xbox 通用服务
+
+# ========== Microsoft Azure 与 Windows 更新 ==========
+DOMAIN-SUFFIX, microsoftazure.com   # Azure 相关
+DOMAIN-SUFFIX, azure.com            # Azure 云服务通用域名
+DOMAIN-SUFFIX, azureedge.net        # Azure CDN 通用域名
+DOMAIN-SUFFIX, windowsupdate.com    # Windows Update
+DOMAIN-SUFFIX, update.microsoft.com # Microsoft 更新服务
+

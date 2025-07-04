@@ -1,0 +1,43 @@
+# ========== Safari 浏览器主站与核心接口 ==========
+DOMAIN-SUFFIX, safari.apple.com
+DOMAIN-SUFFIX, developer.apple.com
+DOMAIN-SUFFIX, webkit.org 
+
+# ========== Apple 身份验证与账户服务 (用于 Safari 登录与 iCloud 同步) ==========
+DOMAIN-SUFFIX, idmsa.apple.com
+DOMAIN-SUFFIX, login.apple.com
+DOMAIN-SUFFIX, oauth.apple.com
+
+# ========== Safari 静态资源与 Apple 核心 CDN ==========
+DOMAIN-SUFFIX, cdn.apple.com
+DOMAIN-SUFFIX, assets.apple.com
+DOMAIN-SUFFIX, static.apple.com
+DOMAIN-SUFFIX, a.mzstatic.com  # Apple Media Services 静态内容
+
+# ========== Apple iCloud 同步与相关服务 ==========
+DOMAIN-SUFFIX, icloud.com
+DOMAIN-SUFFIX, cdn.icloud.com
+DOMAIN-SUFFIX, icloud-content.com
+
+# ========== Apple 推送通知与诊断服务 ==========
+DOMAIN-SUFFIX, xp.apple.com    # Apple 推送通知服务
+DOMAIN-SUFFIX, mesu.apple.com  # macOS/iOS 软件更新服务
+DOMAIN-SUFFIX, gdmf.apple.com  # 诊断与指标
+
+# ========== Apple 媒体与应用商店链接 ==========
+DOMAIN-SUFFIX, apps.apple.com    # App Store 链接
+DOMAIN-SUFFIX, itunes.apple.com  # iTunes 媒体链接
+DOMAIN-SUFFIX, hls.apple.com     # HTTP Live Streaming (视频流)
+
+# ========== Safari 遥测与更新服务 ==========
+DOMAIN-SUFFIX, telemetry.apple.com
+DOMAIN-SUFFIX, updates.apple.com
+
+# ========== Safari 搜索建议 / Siri 相关 ==========
+DOMAIN-SUFFIX, guzzoni.apple.com
+
+# ========== 备用域与扩展支持 ==========
+DOMAIN-SUFFIX, safari.com
+DOMAIN-SUFFIX, safari-extensions.apple.com
+
+ 

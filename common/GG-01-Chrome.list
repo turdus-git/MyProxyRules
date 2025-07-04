@@ -1,0 +1,14 @@
+# ========== Chrome 浏览器主站与核心接口 ==========
+DOMAIN-SUFFIX, chrome.google.com
+DOMAIN-SUFFIX, chromium.org # Chromium项目相关
+
+# ========== Chrome 浏览器专属功能依赖 ==========
+DOMAIN-SUFFIX, dl.google.com                 # Chrome下载服务 (如更新包)
+DOMAIN-SUFFIX, update.googleapis.com         # Chrome更新服务 (核心)
+DOMAIN-SUFFIX, crashreport.google.com        # Chrome崩溃报告
+DOMAIN-SUFFIX, safeBrowsing.googleapis.com   # Chrome安全浏览API
+DOMAIN-SUFFIX, safeBrowsing.google.com       # Chrome安全浏览服务
+DOMAIN-SUFFIX, chromewebstore.google.com     # Chrome Web Store
+DOMAIN-SUFFIX, chromedevtools.google.com     # Chrome DevTools
+
+ 
