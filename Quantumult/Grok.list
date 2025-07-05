@@ -23,9 +23,3 @@ DOMAIN-SUFFIX,grokcdn.com,Grok # 潜在的CDN域名
 # ========== 实验服务与遥测 ==========
 DOMAIN-SUFFIX,telemetry.xai.com,Grok
 DOMAIN-SUFFIX,experiments.xai.com,Grok
-
-# ========== 与 X (Twitter) 平台绑定依赖 ==========
-# 注意：以下两个域名非常广泛，会匹配所有X/Twitter流量。
-# 如果你已经有单独的Twitter分流规则，或不希望X/Twitter流量也走Grok策略，请删除这两行。
-DOMAIN-SUFFIX,x.com,Grok
-DOMAIN-SUFFIX,twitter.com,Grok
