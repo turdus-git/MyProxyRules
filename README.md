@@ -1,2 +1,0 @@
-# MyProxyRules
-ProxyRules for shadowrocket
