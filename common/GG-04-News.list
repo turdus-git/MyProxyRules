@@ -1,8 +1,0 @@
-# ========== Google 新闻核心域名 ==========
-DOMAIN-SUFFIX, news.google.com
-DOMAIN-SUFFIX, currents.google.com   # Google Currents (与Google新闻相关)
-
-# ========== Google 新闻相关静态资源与辅助服务 ==========
-DOMAIN-SUFFIX, cdn.ampproject.org    # AMP (加速移动页面)，新闻内容常用
-
- 
